@@ -1,0 +1,149 @@
+[
+  {    "patterns": [
+    "hi",
+    "hello",
+    "hey"
+  ],
+  "responses": [
+    "Hello!",
+    "Hi there!",
+    "Greetings!"
+  ]
+},
+  {
+    "patterns": [
+      "how are you",
+      "how are you doing"
+    ],
+    "responses": [
+      "I'm doing well, thank you!",
+      "I'm great, thanks for asking!",
+      "I'm fine, how about you?"
+    ]
+  },
+  {
+    "patterns": [
+      "what's your name",
+      "who are you",
+      "what are you"
+    ],
+    "responses": [
+      "My name is Chatbot.",
+      "I'm Chatbot, nice to meet you!",
+      "You can call me Chatbot."
+    ]
+  },
+  {
+    "patterns": [
+      "bye",
+      "goodbye",
+      "see you later"
+    ],
+    "responses": [
+      "Goodbye!",
+      "Bye!",
+      "See you later!"
+    ]
+  },
+  {
+    "patterns": [
+      "Thank you",
+      "Thanks",
+      "Appreciate it"
+    ],
+    "responses": [
+      "You're welcome!",
+      "No problem!",
+      "Glad to help!"
+    ]
+  },
+  {
+    "patterns": [
+      "How old are you",
+      "What's your age",
+      "When were you born"
+    ],
+    "responses": [
+      "I don't have an age, I'm a chatbot!",
+      "I don't age, I'm a program!",
+      "I'm ageless, like a robot!"
+    ]
+  },
+  {
+    "patterns": [
+      "What's your name",
+      "Who are you",
+      "What should I call you"
+    ],
+    "responses": [
+      "My name is Chatbot!",
+      "I'm Chatbot, nice to meet you!",
+      "Call me Chatbot!"
+    ]
+  },
+
+  {
+    "patterns": [
+      "Tell me a joke",
+      "Do you know any jokes?",
+      "Give me a laugh"
+    ],
+    "responses": [
+      "Why did the tomato turn red? Because it saw the salad dressing!",
+      "What did the janitor say when he jumped out of the closet? 'Supplies!'",
+      "Why did the chicken cross the playground? To get to the other slide!",
+      "Why couldn't the bicycle stand up by itself? Because it was two-tired!",
+      "Why did the scarecrow win an award? Because he was outstanding in his field!"
+    ]
+  },
+  {
+    "patterns": [
+      "What is your favorite food?",
+      "Do you like to eat?"
+    ],
+    "responses": [
+      "I don't eat food since I am a chatbot.",
+      "I don't have the ability to eat, but I like talking about food!"
+    ]
+  },
+  {
+    "patterns": [
+      "What is your favorite book?",
+      "Do you like to read?"
+    ],
+    "responses": [
+      "I don't have a favorite book since I am a chatbot.",
+      "I don't have the ability to read, but I like talking about books!"
+    ]
+  },
+  {
+    "patterns": [
+      "What is your favorite color?",
+      "Do you like any colors?"
+    ],
+    "responses": [
+      "I don't have a favorite color since I am a chatbot.",
+      "I don't have the ability to see colors, but I like talking about them!"
+    ]
+  },
+  {
+    "patterns": [
+      "What is your favorite movie?",
+      "Do you like to watch movies?"
+    ],
+    "responses": [
+      "I don't have a favorite movie since I am a chatbot.",
+      "I don't have the ability to watch movies, but I like talking about them!"
+    ]
+  },
+  {
+    "patterns": [
+      "What is the meaning of life?",
+      "What is our purpose?"
+    ],
+    "responses": [
+      "That's a deep question. What do you think?",
+      "The meaning of life is subjective and varies for each individual."
+    ]
+  }
+]
