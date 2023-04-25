@@ -44,3 +44,5 @@ Improvements:
 - Add more patterns and responses to the `intents.json` file to improve the chatbot's accuracy.
 - Use a machine learning framework to create a more sophisticated chatbot that can learn from user interactions.
 - Implement a user interface that is more interactive and visually appealing.
+
+Feel free to Add Your features, Thank you.
